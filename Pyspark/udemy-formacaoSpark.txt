@@ -1,0 +1,8 @@
+
+######### RDD 
+- Estrutura básica de baixo nível
+- Dados "IMUTÁVEIS" distribuídos pelo cluster
+- Em memória
+- Pode ser persistido em disco
+- Tolerante a falha
+-

@@ -1,1 +1,3 @@
-print("Hello python")
+
+
+# LAMBDA PYTHON
